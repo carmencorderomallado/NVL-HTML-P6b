@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Películas Épicas</title>
+  </head>
+  <body>
+    <p>Las 10 mejores pelis</p>
+	<ol type="1">
+		<li>La ciudad de Dios<img src=“01.jpg” alt=“cartelera de Ciudad de Dios”></li>
+		<li>Campeones<img src=“02.jpg” alt=“cartelera de Campeones”></li>
+		<li>Titanic<img src=“03.jpg” alt=“cartelera de Titanic”></li>
+		<li>En busca de la felicidad<img src=“04.jpg” alt=“cartelera de en busca de la felicidad”></li>
+		<li>Origen<img src=“05.jpg” alt=“cartelera de Origen”></li>
+	
+</ol>
+  </body>
+</html>
